@@ -1,0 +1,1 @@
+alert("Kadir Bedirhan Koçak - A'dan Z'ye CSS Görsel Programlama");
