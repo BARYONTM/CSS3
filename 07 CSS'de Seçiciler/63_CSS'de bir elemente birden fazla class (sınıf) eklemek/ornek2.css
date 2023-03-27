@@ -1,0 +1,15 @@
+.kirmizi{
+    color: red;
+}
+.kalinyazi{
+    font-weight: bolder;
+}
+.inceyazi{
+    font-weight: 100;
+}
+.yesil{
+    color: greenyellow;
+}
+body{
+    background-color: cornflowerblue;
+}

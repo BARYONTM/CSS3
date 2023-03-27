@@ -1,0 +1,8 @@
+div > a{
+    color: red;
+    text-decoration: none;
+}
+div > span >a {
+    color: red;
+    text-decoration: none;
+}
