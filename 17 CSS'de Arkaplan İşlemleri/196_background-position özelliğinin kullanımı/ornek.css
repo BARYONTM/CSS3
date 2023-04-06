@@ -1,0 +1,17 @@
+div{
+    width: 1000px;
+    height: 500px;
+    border: 2px solid black;
+    background-image: url(images/CSS.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+p{
+    width: 800px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: inherit;
+    background-repeat: inherit;
+    background-position: inherit;
+
+}

@@ -1,0 +1,20 @@
+div#one{
+    width: 800px;
+    height: 500px;
+    border: 2px solid blue;
+    background-image: url(images/CSS.png);
+    background-repeat: no-repeat;
+    background-size: 177px 100px;
+    background-attachment: local;
+    overflow: auto;
+}
+div#two{
+    width: 700px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: url(images/CSS.png);
+    background-repeat: no-repeat;
+    background-size: 177px 100px;
+    background-attachment: inherit;
+    overflow: auto;
+}

@@ -1,0 +1,13 @@
+div{
+    width: 1000px;
+    height: 200px;
+    border: 10px solid black;
+    background-image: url(images/CSS.png);
+}
+p{
+    width: 800px;
+    height: 150px;
+    border: 10px solid green;
+    background-color: white;
+    background-image: inherit;
+}

@@ -1,0 +1,15 @@
+
+div#one{
+    width: 1000px;
+    height: 450px;
+    border: 2px solid blue;
+    background-image: url(images/CSS.png);
+    background-repeat: space;
+}
+div.two{
+    width: 900px;
+    height: 100px;
+    border: 2px solid red;
+    background-image: url(images/CSS.png);
+    background-repeat: repeat-y;
+}

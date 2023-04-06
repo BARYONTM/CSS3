@@ -1,0 +1,9 @@
+p{
+    width: 800px;
+    height: 500px;
+    border: 2px solid blue;
+    background-image: url(images/CSS.png),url(images/BS.png),url(images/HTML5.png),url(images/JS.png);
+    background-repeat: no-repeat;
+    background-color: rosybrown;
+    background-position: left top, right top , left bottom, right bottom;
+}
