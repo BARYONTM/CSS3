@@ -1,0 +1,13 @@
+div#one{
+    width: 200px;
+    height: 500px;
+    background-color: red;
+    margin: 50px;
+}
+div.two{
+    width: 83px;
+    height: 18px;
+    background-color: blue;
+    margin: inherit;
+}
+
