@@ -1,0 +1,8 @@
+div#one{
+    width: 90px;
+    height: 200px;
+    border: 1px solid red;
+    padding-right: 25px;
+    margin: 25px;
+}
+
